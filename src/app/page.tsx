@@ -144,7 +144,7 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="bg-white rounded-xl m-5 my-12 md:my-20 p-5 flex md:flex-col justify-evenly items-center">
+        <div className="bg-white rounded-xl m-5 my-12 md:my-20 p-5 flex md:flex-col sm:flex-col justify-evenly items-center">
           <div className="flex flex-col items-center w-[30%] rounded-xl justify-center">
             <div className="rounded-full p-1 w-fit border-2">
               <img
